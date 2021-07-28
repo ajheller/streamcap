@@ -1,0 +1,6 @@
+MAILTO="ajheller@gmail.com"
+59 16 * * 6 /home/ajheller/bin/rec-wcrb.sh
+59 15 * * 0 /home/ajheller/bin/rec-wcrb.sh
+55 16 * * 1 /home/ajheller/bin/rec-radiox.sh
+59 16 * * 6 /home/ajheller/bin/rec-wamc.sh
+29 11 * * 0 /home/ajheller/bin/rec-wamc.sh
